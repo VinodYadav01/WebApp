@@ -3,7 +3,7 @@
 	<groupId>sampleproject</groupId>
 	<artifactId>Realtime</artifactId>
 	<packaging>war</packaging>
-	<version>3.0.32-SNAPSHOT</version>
+	<version>3.1.32-SNAPSHOT</version>
 	<name>ims Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	
